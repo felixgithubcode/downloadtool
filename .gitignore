@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/HtmlAgilityPack.1.11.22
+/.vs/DownloadTool/v16/Server/sqlite3
